@@ -6,6 +6,8 @@ Meu email é [adalberto@zauli.med.br](adalberto@zauli.md.br)
 
 Se quiserem, podem me enviar dicas. Estou atualmente focado em desenvolvimento iOS.
 
+Quero muito aprender e somar com a comunidade.
+
 ;)
 
 
