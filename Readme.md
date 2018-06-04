@@ -1,6 +1,11 @@
 # Github
 
+Este é um repositório teste para aprender como o Git funciona
 
-Arquivo da aula de Git e Github para iniciantes.
+Meu email é [adalberto@zauli.med.br](adalberto@zauli.md.br)
 
-Adalberto Zauli
+Se quiserem, podem me enviar dicas. Estou atualmente focado em desenvolvimento iOS.
+
+;)
+
+
